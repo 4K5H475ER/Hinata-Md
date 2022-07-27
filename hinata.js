@@ -1812,6 +1812,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
  • ${prefix}anticall [on/off]
 
  *Thanks To*
+ • Tisu Demon
  • DikaArdnt
  • Fatih Arridho
  • Yoga
